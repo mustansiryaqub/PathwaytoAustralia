@@ -1,0 +1,31 @@
+university_id,university_name,state,city,qs_rank_2026,afr_rank_2024,international_students_count,avg_intl_fees_aud,avg_intl_fees_range_low,avg_intl_fees_range_high,undergrad_entry_atar_equiv,postgrad_entry_requirement,scholarship_availability_pct,grad_employment_rate_pct,grad_employment_salary_median_aud,top_strengths,established_year,website
+1,University of Melbourne,Victoria,Melbourne,19,3,16000,48000,37312,75696,85,Masters/Bachelors equivalents,35,89,72000,Engineering|Computer Science|Business|Law,1853,unimelb.edu.au
+2,University of New South Wales,New South Wales,Sydney,20,3,21000,52500,40000,95500,86,GMAT 600+/GRE 160+,32,88,74000,Engineering|Business|IT|Data Science,1949,unsw.edu.au
+3,University of Sydney,New South Wales,Sydney,25,5,19000,49000,38000,72000,84,IELTS 7.0+,28,85,70000,Medicine|Law|Business|Engineering,1850,sydney.edu.au
+4,Australian National University,Australian Capital Territory,Canberra,32,2,12000,50000,39000,78000,87,Masters degree required,38,87,73000,Research|Engineering|Science|Business,1946,anu.edu.au
+5,University of Queensland,Queensland,Brisbane,40,1,18000,47000,36000,68000,84,IELTS 6.5+,30,86,71000,Engineering|Agriculture|Medicine|Business,1909,uq.edu.au
+6,Monash University,Victoria,Melbourne,37,4,22000,44000,32000,65000,82,3-year degree,35,84,68000,Engineering|Business|IT|Design,1958,monash.edu
+7,University of Western Australia,Western Australia,Perth,77,9,8000,42000,33000,62000,80,Bachelor degree,20,82,66000,Engineering|Science|Agriculture,1911,uwa.edu.au
+8,University of Technology Sydney,New South Wales,Sydney,88,8,11000,39000,30000,58000,78,IELTS 6.0+,25,80,62000,Engineering|IT|Design|Business,1988,uts.edu.au
+9,RMIT University,Victoria,Melbourne,154,11,12000,38000,29000,55000,76,IELTS 6.5+,22,79,60000,Design|IT|Engineering|Business,1934,rmit.edu.au
+10,Macquarie University,New South Wales,Sydney,200,13,7000,40000,31000,60000,77,IELTS 6.5+,18,78,59000,Business Analytics|IT|Science,1964,mq.edu.au
+11,University of Newcastle,New South Wales,Newcastle,197,16,5000,36000,28000,52000,75,IELTS 6.0+,15,76,55000,Engineering|Health|Business,1965,newcastle.edu.au
+12,University of Wollongong,New South Wales,Wollongong,189,18,4000,34000,26000,48000,73,IELTS 6.0+,12,74,52000,Engineering|Science|Business,1951,uow.edu.au
+13,Deakin University,Victoria,Melbourne,195,20,6000,35000,27000,50000,74,IELTS 6.5+,14,73,50000,Engineering|IT|Business|Health,1974,deakin.edu.au
+14,La Trobe University,Victoria,Melbourne,274,25,3000,32000,25000,45000,70,IELTS 6.0+,10,70,48000,Business|IT|Science,1964,latrobe.edu.au
+15,Queensland University of Technology,Queensland,Brisbane,168,22,4000,38000,30000,55000,76,IELTS 6.5+,16,75,54000,Engineering|IT|Business|Design,1989,qut.edu.au
+16,University of Adelaide,South Australia,Adelaide,82,10,3500,40000,32000,58000,78,Bachelor degree,28,77,57000,Engineering|Science|Agriculture|Business,1874,adelaide.edu.au
+17,University of South Australia,South Australia,Adelaide,240,17,2800,35000,27000,50000,72,IELTS 6.5+,13,71,49000,Business|IT|Engineering,1991,unisa.edu.au
+18,RMIT Vietnam,Vietnam (int'l),Hanoi,154,11,2000,28000,22000,40000,70,IELTS 6.5+,20,75,45000,IT|Design|Business,2001,rmit.edu.vn
+19,Curtin University,Western Australia,Perth,193,24,5500,36000,28000,52000,75,IELTS 6.5+,14,72,51000,Engineering|Business|IT|Science,1987,curtin.edu.au
+20,Griffith University,Queensland,Gold Coast,240,28,4200,34000,26000,48000,73,IELTS 6.0+,12,70,47000,Business|Engineering|Health,1975,griffith.edu.au
+21,James Cook University,Queensland,Townsville,284,35,2100,32000,24000,44000,68,IELTS 6.0+,9,65,42000,Science|Medicine|Engineering,1970,jcu.edu.au
+22,University of Tasmania,Tasmania,Hobart,276,32,1800,31000,23000,42000,67,IELTS 6.0+,8,63,40000,Engineering|Science|Health,1890,utas.edu.au
+23,Charles Sturt University,New South Wales,Wagga Wagga,350,38,1600,28000,21000,38000,62,IELTS 5.5+,6,60,36000,Agriculture|Business|Nursing,1989,csu.edu.au
+24,Federation University,Victoria,Ballarat,400,42,1200,26000,20000,35000,60,IELTS 5.5+,5,58,34000,Engineering|Business|Health,1870,federation.edu.au
+25,University of Southern Queensland,Queensland,Toowoomba,380,40,1400,27000,21000,37000,61,IELTS 6.0+,7,59,35000,Engineering|Business|Agriculture,1967,usq.edu.au
+26,Victoria University,Victoria,Melbourne,350,37,2200,29000,22000,40000,64,IELTS 6.0+,8,61,38000,Business|IT|Engineering,1916,vu.edu.au
+27,Swinburne University,Victoria,Melbourne,360,39,3500,33000,25000,46000,71,IELTS 6.5+,11,68,46000,IT|Engineering|Business,1908,swinburne.edu.au
+28,Western Sydney University,New South Wales,Sydney,330,36,3800,30000,23000,42000,65,IELTS 6.0+,9,62,39000,Business|IT|Engineering,1989,westernsydney.edu.au
+29,University of Divinity,Victoria,Melbourne,N/A,N/A,400,20000,16000,26000,55,Bachelor/Diploma,30,52,32000,Theology|Philosophy|Ministry,1910,divinity.edu.au
+30,Bond University,Queensland,Gold Coast,244,27,2600,46000,38000,60000,82,IELTS 6.5+,26,76,56000,Business|Law|Health|Engineering,1987,bond.edu.au

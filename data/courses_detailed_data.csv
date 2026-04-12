@@ -1,0 +1,174 @@
+course_id,university_id,university_name,course_code,course_name,course_level,duration_years,intl_fee_per_year_aud,entry_requirement,entry_score_ielts,entry_score_gmat,undergrad_prerequisites,grad_employment_rate_pct,grad_salary_median_aud,career_pathways,anzsco_code,course_url_path,specializations
+1001,1,University of Melbourne,BS-ENG,Bachelor of Engineering,Undergraduate,4,58000,VCE/International equivalent,6.5,N/A,English+Math,92,82000,Software Engineer|Solutions Architect|Project Manager,2611,engineering/bachelor,Electrical|Mechanical|Civil|Chemical
+1002,1,University of Melbourne,MS-COMP,Master of Computer Science,Postgraduate,2,58000,Bachelor in CS/related,7.0,N/A,Programming fundamentals,95,95000,Senior Developer|Tech Lead|AI Specialist,2611,engineering/masters-cs,AI|Machine Learning|Cloud Computing
+1003,1,University of Melbourne,MS-BUS,Master of Business Administration,Postgraduate,2,56000,Bachelor+2yrs work exp,7.0,650,Leadership experience,88,110000,Business Manager|Consultant|Director,1200,business/mba,Finance|Marketing|Strategy
+1004,1,University of Melbourne,BA-COM,Bachelor of Commerce,Undergraduate,3,52000,VCE/International equivalent,6.5,N/A,English+Math,85,78000,Accountant|Financial Analyst|Investment Banker,2211,business/commerce,Accounting|Finance|Marketing
+1005,1,University of Melbourne,MS-DATA,Master of Data Science,Postgraduate,2,57500,Bachelor+1yr relevant exp,7.0,N/A,Statistics/programming,94,98000,Data Scientist|Analytics Engineer|ML Engineer,2724,science/data-science,Business Analytics|Statistics|AI
+
+2001,2,UNSW Sydney,BS-ENG,Bachelor of Engineering,Undergraduate,4,59500,NSW HSC/IB,6.5,N/A,English+Physics+Math,93,84000,Civil Engineer|Electrical Engineer|Software Engineer,2631,engineering/bachelor,Aerospace|Software|Mechatronics
+2002,2,UNSW Sydney,MS-ENG,Master of Engineering,Postgraduate,2,57500,Bachelor in Engineering,7.0,N/A,Engineering fundamentals,94,96000,Senior Engineer|Project Manager|Technical Director,2631,engineering/masters,Structural|Renewable Energy|Digital Systems
+2003,2,UNSW Sydney,BT-IT,Bachelor of IT,Undergraduate,3,54000,NSW HSC/IB,6.5,N/A,Math+English,90,80000,Software Developer|Systems Analyst|Cloud Architect,2611,it/bachelor,Cybersecurity|Data Science|Cloud
+2004,2,UNSW Sydney,MS-BUS,Master of Business Analytics,Postgraduate,1.5,48000,Bachelor+GMAT 600,7.0,600,Quantitative skills,91,94000,Business Analyst|Data Scientist|Management Consultant,2724,business/analytics,Finance Analytics|Marketing|Operations
+2005,2,UNSW Sydney,MS-CS,Master of Computer Science,Postgraduate,2,56000,Bachelor in CS/related,7.0,N/A,Programming experience,96,97000,AI Engineer|Cloud Architect|Research Scientist,2611,science/cs-masters,Artificial Intelligence|Cybersecurity|Blockchain
+
+3001,3,University of Sydney,BA-ENG,Bachelor of Science (Engineering),Undergraduate,4,56000,ATAR 85+/IB,6.5,N/A,Math+Physics,91,81000,Structural Engineer|Software Engineer|Consultant,2631,engineering/bachelor,Civil|Electrical|Mechanical
+3002,3,University of Sydney,MS-BUS,Master of Business Administration,Postgraduate,2,54000,Bachelor+2yrs exp,7.0,650,Leadership,87,108000,CEO|MD|Business Director,1200,business/mba,International Business|Finance
+3003,3,University of Sydney,BA-COM,Bachelor of Laws,Undergraduate,4,62000,ATAR 90+/IB,7.0,N/A,English focus,89,88000,Lawyer|Barrister|Legal Analyst,2711,law/bachelor,Corporate Law|International Law
+3004,3,University of Sydney,BA-MED,Bachelor of Medicine,Undergraduate,6,68000,ATAR 95+/IB,7.5,N/A,Science subjects,92,105000,Doctor|Surgeon|Medical Researcher,2511,medicine/bachelor,General Practice|Surgery|Psychiatry
+3005,3,University of Sydney,MS-IT,Master of Information Technology,Postgraduate,2,52000,Bachelor/relevant exp,6.5,N/A,Tech fundamentals,93,92000,IT Project Manager|Solutions Architect,2611,it/masters,Enterprise Systems|Cloud Architecture
+
+4001,4,Australian National University,BA-ENG,Bachelor of Engineering,Undergraduate,4,60000,International equivalent,7.0,N/A,Math+Physics,94,85000,Project Manager|Systems Engineer,2631,engineering/bachelor,Software|Electrical|Civil
+4002,4,Australian National University,MS-RES,Master of Research (Science),Postgraduate,2,55000,Bachelor in Science,7.0,N/A,Research capability,92,79000,Research Scientist|PhD pathway,2311,science/research-masters,Physics|Chemistry|Mathematics
+4003,4,Australian National University,BA-BUS,Bachelor of Business Administration,Undergraduate,3,51000,International equivalent,6.5,N/A,Math+English,86,77000,Management Consultant|Analyst,1200,business/bachelor,Economics|Management
+4004,4,Australian National University,MS-POL,Master of Public Policy,Postgraduate,2,48000,Bachelor+1yr exp,6.5,N/A,Policy interest,84,72000,Policy Analyst|Government Officer,4419,policy/masters,International Relations|Environment
+4005,4,Australian National University,BA-CS,Bachelor of Computer Science,Undergraduate,3,57000,International equivalent,7.0,N/A,Math+English,91,83000,Software Developer|Data Analyst,2611,it/bachelor,AI|Cybersecurity|Data Science
+
+5001,5,University of Queensland,BA-ENG,Bachelor of Engineering,Undergraduate,4,55000,QLD OP10-15/IB,6.5,N/A,Math+Physics,92,80000,Mining Engineer|Civil Engineer,2631,engineering/bachelor,Civil|Mechanical|Mining
+5002,5,University of Queensland,MS-BUS,Master of Business Administration,Postgraduate,2,52000,Bachelor+3yrs exp,7.0,600,Leadership,89,106000,Business Director|MD,1200,business/mba,Real Estate|Finance
+5003,5,University of Queensland,BA-AGR,Bachelor of Agriculture,Undergraduate,4,48000,QLD OP10-20/IB,6.5,N/A,Science subjects,85,68000,Agronomist|Farm Manager|Consultant,3113,agriculture/bachelor,Crop Science|Sustainable Farming
+5004,5,University of Queensland,MS-IT,Master of Information Technology,Postgraduate,2,50000,Bachelor/relevant,6.5,N/A,Tech skills,92,90000,Senior Developer|Tech Lead,2611,it/masters,Full Stack|DevOps|Mobile
+5005,5,University of Queensland,BA-MED,Bachelor of Medicine,Undergraduate,5,65000,OP5-8/IB,7.5,N/A,Science+English,91,100000,Doctor|Specialist,2511,medicine/bachelor,General Practice|Emergency|Surgery
+
+6001,6,Monash University,BA-ENG,Bachelor of Engineering,Undergraduate,4,52000,ATAR 75+/IB,6.5,N/A,Math+Physics,90,78000,Design Engineer|Quality Engineer,2631,engineering/bachelor,Aerospace|Software|Biomedical
+6002,6,Monash University,BA-FIN,Bachelor of Finance,Undergraduate,3,52200,ATAR 75+/IB,6.5,N/A,Math+English,87,75000,Financial Analyst|Investment Manager,2212,business/finance,Corporate Finance|Risk Management
+6003,6,Monash University,BA-IT,Bachelor of Information Technology,Undergraduate,3,50000,ATAR 70+/IB,6.5,N/A,Math+English,89,76000,Software Developer|Systems Admin,2611,it/bachelor,Web Dev|Cloud|Databases
+6004,6,Monash University,MS-BUS,Master of Business Administration,Postgraduate,2,50000,Bachelor+2yrs exp,7.0,600,Leadership,88,105000,Manager|Director|Consultant,1200,business/mba,Marketing|Operations
+6005,6,Monash University,MS-DS,Master of Data Science,Postgraduate,2,55000,Bachelor+relevant exp,7.0,N/A,Statistics/coding,93,96000,Data Scientist|Analytics Manager,2724,science/data-science,ML|AI|Business Analytics
+
+7001,7,University of Western Australia,BA-ENG,Bachelor of Engineering,Undergraduate,4,52000,WACE 80+/IB,6.5,N/A,Math+Physics,89,77000,Civil Engineer|Consultant,2631,engineering/bachelor,Civil|Mechanical|Mining
+7002,7,University of Western Australia,BA-AGR,Bachelor of Agriculture,Undergraduate,4,46000,WACE 75+/IB,6.5,N/A,Science+Math,84,66000,Farmer|Agronomist|Consultant,3113,agriculture/bachelor,Sustainable Agriculture|Horticulture
+7003,7,University of Western Australia,BA-BUS,Bachelor of Business,Undergraduate,3,49000,WACE 75+/IB,6.5,N/A,English+Math,85,74000,Business Manager|Analyst,1200,business/bachelor,Accounting|Economics|Management
+7004,7,University of Western Australia,MS-CS,Master of Computer Science,Postgraduate,2,54000,Bachelor in CS/related,7.0,N/A,Programming,91,89000,Software Engineer|Data Scientist,2611,it/masters,AI|Cybersecurity|Web Tech
+7005,7,University of Western Australia,BA-SC,Bachelor of Science,Undergraduate,3,51000,WACE 75+/IB,6.5,N/A,Science subjects,82,65000,Scientist|Analyst|Teacher,2311,science/bachelor,Physics|Chemistry|Biology
+
+8001,8,University of Technology Sydney,BA-ENG,Bachelor of Engineering,Undergraduate,4,50000,NSW HSC 70+/IB,6.0,N/A,Math+Physics,88,75000,Design Engineer|Project Officer,2631,engineering/bachelor,Software|Civil|Electrical
+8002,8,University of Technology Sydney,BA-IT,Bachelor of IT,Undergraduate,3,48000,NSW HSC 70+/IB,6.0,N/A,Math+English,87,73000,Developer|Systems Admin,2611,it/bachelor,Web|Cloud|Mobile Apps
+8003,8,University of Technology Sydney,BA-DES,Bachelor of Design,Undergraduate,3,45000,NSW HSC 65+/Portfolio,6.0,N/A,Creative portfolio,83,58000,UX Designer|Graphic Designer,2321,design/bachelor,UX/UI|Interaction|Digital
+8004,8,University of Technology Sydney,MS-BUS,Master of Business,Postgraduate,1.5,46000,Bachelor+1yr exp,6.5,N/A,Work experience,85,88000,Business Analyst|Manager,1200,business/masters,Management|Finance
+8005,8,University of Technology Sydney,MS-IT,Master of IT,Postgraduate,2,49000,Bachelor/relevant,6.5,N/A,Tech skills,90,87000,Senior Developer|Tech Lead,2611,it/masters,Cloud|DevOps|Security
+
+9001,9,RMIT University,BA-ENG,Bachelor of Engineering,Undergraduate,4,48000,VCE 60+/IB,6.5,N/A,Math+Physics,86,72000,Engineer|Consultant,2631,engineering/bachelor,Software|Mechatronics|Electrical
+9002,9,RMIT University,BA-IT,Bachelor of IT,Undergraduate,3,45000,VCE 55+/IB,6.5,N/A,Math+English,85,69000,Developer|Systems Analyst,2611,it/bachelor,Games Dev|Web|Cloud
+9003,9,RMIT University,BA-DES,Bachelor of Design,Undergraduate,3,42000,VCE 50+/Portfolio,6.0,N/A,Portfolio required,80,55000,Designer|Creative Director,2321,design/bachelor,Fashion|Graphic|UX Design
+9004,9,RMIT University,MS-IT,Master of IT,Postgraduate,2,47000,Bachelor/relevant,6.5,N/A,Tech background,88,85000,Senior Developer|Tech Lead,2611,it/masters,Cybersecurity|Mobile|AI
+9005,9,RMIT University,BA-BUS,Bachelor of Business,Undergraduate,3,44000,VCE 55+/IB,6.5,N/A,English+Math,82,64000,Business Analyst|Manager,1200,business/bachelor,Marketing|Finance|Management
+
+10001,10,Macquarie University,BA-BUS,Bachelor of Business,Undergraduate,3,42000,HSC 65+/IB,6.5,N/A,English+Math,81,61000,Analyst|Manager|Consultant,1200,business/bachelor,Accounting|Finance|Analytics
+10002,10,Macquarie University,MS-BA,Master of Business Analytics,Postgraduate,2,45000,Bachelor+relevant exp,6.5,N/A,Analytical skills,89,91000,Analytics Manager|Consultant,2724,business/analytics,Data Science|Finance|Marketing
+10003,10,Macquarie University,BA-IT,Bachelor of IT,Undergraduate,3,44000,HSC 65+/IB,6.5,N/A,Math+English,84,68000,Developer|Systems Admin,2611,it/bachelor,Networks|Database|Web
+10004,10,Macquarie University,BA-SC,Bachelor of Science,Undergraduate,3,46000,HSC 65+/IB,6.5,N/A,Science subjects,80,59000,Scientist|Analyst|Teacher,2311,science/bachelor,Physics|Mathematics|Biology
+10005,10,Macquarie University,MS-CS,Master of Computer Science,Postgraduate,2,48000,Bachelor in CS/related,7.0,N/A,Programming,90,88000,Software Engineer|Data Scientist,2611,it/masters,Artificial Intelligence|Networks|Databases
+
+11001,11,University of Newcastle,BA-ENG,Bachelor of Engineering,Undergraduate,4,45000,NSW HSC 65+/IB,6.0,N/A,Math+Physics,85,70000,Civil Engineer|Consultant,2631,engineering/bachelor,Civil|Mechanical|Mining
+11002,11,University of Newcastle,BA-HLT,Bachelor of Health Science,Undergraduate,3,42000,NSW HSC 60+/IB,6.0,N/A,Science+English,82,58000,Health Professional|Manager,2512,health/bachelor,Nursing|Public Health|Allied Health
+11003,11,University of Newcastle,BA-IT,Bachelor of IT,Undergraduate,3,40000,NSW HSC 60+/IB,6.0,N/A,Math+English,82,65000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+11004,11,University of Newcastle,BA-BUS,Bachelor of Business,Undergraduate,3,38000,NSW HSC 60+/IB,6.0,N/A,English+Math,79,56000,Analyst|Manager,1200,business/bachelor,Accounting|Management|Marketing
+11005,11,University of Newcastle,MS-ENG,Master of Engineering,Postgraduate,2,44000,Bachelor in Engineering,6.5,N/A,Engineering fundamentals,87,78000,Senior Engineer|Project Manager,2631,engineering/masters,Structural|Materials|Energy
+
+12001,12,University of Wollongong,BA-ENG,Bachelor of Engineering,Undergraduate,4,42000,NSW HSC 62+/IB,6.0,N/A,Math+Physics,84,68000,Engineer|Designer,2631,engineering/bachelor,Civil|Electrical|Software
+12002,12,University of Wollongong,BA-SC,Bachelor of Science,Undergraduate,3,40000,NSW HSC 60+/IB,6.0,N/A,Science subjects,80,55000,Scientist|Analyst,2311,science/bachelor,Chemistry|Physics|Environmental
+12003,12,University of Wollongong,BA-BUS,Bachelor of Business,Undergraduate,3,38000,NSW HSC 60+/IB,6.0,N/A,English+Math,78,54000,Analyst|Manager,1200,business/bachelor,Accounting|Finance
+12004,12,University of Wollongong,BA-IT,Bachelor of IT,Undergraduate,3,39000,NSW HSC 58+/IB,6.0,N/A,Math+English,81,63000,Developer|Systems Admin,2611,it/bachelor,Networks|Database|Web
+12005,12,University of Wollongong,MS-BUS,Master of Business,Postgraduate,1.5,41000,Bachelor+1yr exp,6.5,N/A,Work experience,82,75000,Manager|Analyst|Consultant,1200,business/masters,Finance|Management
+
+13001,13,Deakin University,BA-ENG,Bachelor of Engineering,Undergraduate,4,43000,VCE 65+/IB,6.5,N/A,Math+Physics,83,66000,Engineer|Project Officer,2631,engineering/bachelor,Software|Electrical|Civil
+13002,13,Deakin University,BA-IT,Bachelor of IT,Undergraduate,3,41000,VCE 60+/IB,6.5,N/A,Math+English,82,62000,Developer|Systems Admin,2611,it/bachelor,Cloud|Cybersecurity|Mobile
+13003,13,Deakin University,BA-BUS,Bachelor of Business,Undergraduate,3,39000,VCE 60+/IB,6.5,N/A,English+Math,77,53000,Analyst|Manager,1200,business/bachelor,Accounting|Management|Marketing
+13004,13,Deakin University,MS-BUS,Master of Business,Postgraduate,2,42000,Bachelor+relevant,6.5,N/A,Work/study skills,80,72000,Manager|Consultant,1200,business/masters,Strategy|Operations
+13005,13,Deakin University,BA-HLT,Bachelor of Health,Undergraduate,3,40000,VCE 60+/IB,6.5,N/A,Science+English,79,56000,Health Manager|Professional,2512,health/bachelor,Public Health|Allied Health
+
+14001,14,La Trobe University,BA-BUS,Bachelor of Business,Undergraduate,3,36000,VCE 55+/IB,6.0,N/A,English+Math,75,51000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+14002,14,La Trobe University,BA-IT,Bachelor of IT,Undergraduate,3,35000,VCE 55+/IB,6.0,N/A,Math+English,80,60000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+14003,14,La Trobe University,BA-SC,Bachelor of Science,Undergraduate,3,37000,VCE 55+/IB,6.0,N/A,Science subjects,76,52000,Scientist|Analyst,2311,science/bachelor,Biology|Chemistry|Environmental
+14004,14,La Trobe University,BA-ENG,Bachelor of Engineering,Undergraduate,4,40000,VCE 60+/IB,6.0,N/A,Math+Physics,81,64000,Engineer|Designer,2631,engineering/bachelor,Civil|Mechanical|Software
+14005,14,La Trobe University,MS-IT,Master of IT,Postgraduate,2,38000,Bachelor/relevant,6.0,N/A,Tech skills,83,71000,Senior Developer|Tech Lead,2611,it/masters,Cybersecurity|Cloud
+
+15001,15,Queensland University of Technology,BA-ENG,Bachelor of Engineering,Undergraduate,4,48000,QLD OP12-18/IB,6.5,N/A,Math+Physics,86,71000,Engineer|Consultant,2631,engineering/bachelor,Mechanical|Software|Electrical
+15002,15,Queensland University of Technology,BA-DES,Bachelor of Design,Undergraduate,3,44000,QLD OP12-20/Portfolio,6.5,N/A,Portfolio required,81,54000,Designer|Creative,2321,design/bachelor,Graphic|UX/UI|Digital
+15003,15,Queensland University of Technology,BA-IT,Bachelor of IT,Undergraduate,3,46000,QLD OP12-18/IB,6.5,N/A,Math+English,85,69000,Developer|Systems Admin,2611,it/bachelor,Web|Cloud|Game Dev
+15004,15,Queensland University of Technology,BA-BUS,Bachelor of Business,Undergraduate,3,43000,QLD OP12-18/IB,6.5,N/A,English+Math,80,58000,Analyst|Manager,1200,business/bachelor,Accounting|Finance|Marketing
+15005,15,Queensland University of Technology,MS-IT,Master of IT,Postgraduate,2,47000,Bachelor/relevant,6.5,N/A,Tech background,88,84000,Senior Developer|Tech Lead,2611,it/masters,Enterprise|Cloud|Security
+
+16001,16,University of Adelaide,BA-ENG,Bachelor of Engineering,Undergraduate,4,48000,SACE 75+/IB,6.5,N/A,Math+Physics,87,73000,Engineer|Project Manager,2631,engineering/bachelor,Civil|Mechanical|Software
+16002,16,University of Adelaide,BA-SC,Bachelor of Science,Undergraduate,3,45000,SACE 72+/IB,6.5,N/A,Science subjects,83,62000,Scientist|Analyst|Teacher,2311,science/bachelor,Chemistry|Physics|Biology
+16003,16,University of Adelaide,BA-AGR,Bachelor of Agriculture,Undergraduate,4,46000,SACE 72+/IB,6.5,N/A,Science+Math,82,65000,Agronomist|Farmer|Consultant,3113,agriculture/bachelor,Crop Science|Soil Science
+16004,16,University of Adelaide,BA-BUS,Bachelor of Business,Undergraduate,3,44000,SACE 72+/IB,6.5,N/A,English+Math,81,60000,Analyst|Manager,1200,business/bachelor,Accounting|Finance|Management
+16005,16,University of Adelaide,MS-ENG,Master of Engineering,Postgraduate,2,50000,Bachelor in Engineering,7.0,N/A,Engineering knowledge,89,80000,Senior Engineer|Director,2631,engineering/masters,Renewable Energy|Structural
+
+17001,17,University of South Australia,BA-BUS,Bachelor of Business,Undergraduate,3,39000,SACE 60+/IB,6.5,N/A,English+Math,76,54000,Analyst|Manager,1200,business/bachelor,Accounting|Management|Marketing
+17002,17,University of South Australia,BA-IT,Bachelor of IT,Undergraduate,3,38000,SACE 60+/IB,6.5,N/A,Math+English,79,61000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+17003,17,University of South Australia,MS-BA,Master of Business Analytics,Postgraduate,2,42000,Bachelor+relevant,6.5,N/A,Analytical skills,86,88000,Analytics Manager|Consultant,2724,business/analytics,Data Science|Finance
+17004,17,University of South Australia,BA-ENG,Bachelor of Engineering,Undergraduate,4,41000,SACE 65+/IB,6.5,N/A,Math+Physics,84,68000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+17005,17,University of South Australia,BA-HLT,Bachelor of Health,Undergraduate,3,37000,SACE 58+/IB,6.5,N/A,Science+English,78,55000,Health Professional,2512,health/bachelor,Nursing|Public Health
+
+18001,19,Curtin University,BA-ENG,Bachelor of Engineering,Undergraduate,4,45000,WACE 70+/IB,6.5,N/A,Math+Physics,85,70000,Engineer|Consultant,2631,engineering/bachelor,Mining|Civil|Mechanical
+18002,19,Curtin University,BA-IT,Bachelor of IT,Undergraduate,3,42000,WACE 65+/IB,6.5,N/A,Math+English,83,67000,Developer|Systems Admin,2611,it/bachelor,Networks|Web|Mobile
+18003,19,Curtin University,BA-BUS,Bachelor of Business,Undergraduate,3,40000,WACE 65+/IB,6.5,N/A,English+Math,80,59000,Analyst|Manager,1200,business/bachelor,Accounting|Finance|Marketing
+18004,19,Curtin University,MS-IT,Master of IT,Postgraduate,2,44000,Bachelor/relevant,6.5,N/A,Tech skills,86,79000,Senior Developer|Tech Lead,2611,it/masters,Cybersecurity|Cloud
+18005,19,Curtin University,BA-SC,Bachelor of Science,Undergraduate,3,43000,WACE 65+/IB,6.5,N/A,Science subjects,81,60000,Scientist|Analyst|Teacher,2311,science/bachelor,Physics|Chemistry|Environmental
+
+19001,20,Griffith University,BA-BUS,Bachelor of Business,Undergraduate,3,38000,QLD OP15-18/IB,6.0,N/A,English+Math,76,56000,Analyst|Manager,1200,business/bachelor,Accounting|Management|Marketing
+19002,20,Griffith University,BA-ENG,Bachelor of Engineering,Undergraduate,4,42000,QLD OP15-20/IB,6.0,N/A,Math+Physics,82,66000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+19003,20,Griffith University,BA-HLT,Bachelor of Health,Undergraduate,3,39000,QLD OP15-18/IB,6.0,N/A,Science+English,78,54000,Health Professional,2512,health/bachelor,Nursing|Public Health|Allied
+19004,20,Griffith University,MS-BUS,Master of Business,Postgraduate,2,40000,Bachelor+1yr exp,6.5,N/A,Work experience,81,76000,Manager|Consultant,1200,business/masters,Management|Marketing
+19005,20,Griffith University,BA-IT,Bachelor of IT,Undergraduate,3,41000,QLD OP15-20/IB,6.0,N/A,Math+English,80,62000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+
+20001,21,James Cook University,BA-BUS,Bachelor of Business,Undergraduate,3,36000,QLD OP18-22/IB,6.0,N/A,English+Math,72,48000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+20002,21,James Cook University,BA-SC,Bachelor of Science,Undergraduate,3,35000,QLD OP18-22/IB,6.0,N/A,Science subjects,70,45000,Scientist|Analyst,2311,science/bachelor,Biology|Chemistry|Marine
+20003,21,James Cook University,BA-ENG,Bachelor of Engineering,Undergraduate,4,39000,QLD OP20-24/IB,6.0,N/A,Math+Physics,79,62000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+20004,21,James Cook University,BA-MED,Bachelor of Medicine,Undergraduate,6,60000,QLD OP3-8/IB,7.0,N/A,Science+English,88,98000,Doctor|Specialist,2511,medicine/bachelor,General Practice|Surgery|Research
+20005,21,James Cook University,MS-IT,Master of IT,Postgraduate,2,40000,Bachelor/relevant,6.0,N/A,Tech skills,81,68000,Senior Developer|Tech Lead,2611,it/masters,Cloud|Web|Mobile
+
+21001,22,University of Tasmania,BA-ENG,Bachelor of Engineering,Undergraduate,4,41000,ATAR 65+/IB,6.0,N/A,Math+Physics,81,60000,Engineer|Designer,2631,engineering/bachelor,Civil|Mechanical|Software
+21002,22,University of Tasmania,BA-SC,Bachelor of Science,Undergraduate,3,39000,ATAR 62+/IB,6.0,N/A,Science subjects,77,52000,Scientist|Analyst,2311,science/bachelor,Chemistry|Physics|Biology
+21003,22,University of Tasmania,BA-HLT,Bachelor of Health,Undergraduate,3,38000,ATAR 60+/IB,6.0,N/A,Science+English,75,50000,Health Professional,2512,health/bachelor,Nursing|Allied Health
+21004,22,University of Tasmania,BA-BUS,Bachelor of Business,Undergraduate,3,37000,ATAR 60+/IB,6.0,N/A,English+Math,74,48000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+21005,22,University of Tasmania,BA-AGR,Bachelor of Agriculture,Undergraduate,4,40000,ATAR 62+/IB,6.0,N/A,Science+Math,76,51000,Farmer|Agronomist,3113,agriculture/bachelor,Crop Science|Horticulture
+
+22001,23,Charles Sturt University,BA-BUS,Bachelor of Business,Undergraduate,3,32000,ATAR 50+/IB,5.5,N/A,English+Math,68,42000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+22002,23,Charles Sturt University,BA-IT,Bachelor of IT,Undergraduate,3,31000,ATAR 48+/IB,5.5,N/A,Math+English,70,48000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+22003,23,Charles Sturt University,BA-AGR,Bachelor of Agriculture,Undergraduate,4,33000,ATAR 50+/IB,5.5,N/A,Science+Math,66,45000,Farmer|Agronomist|Consultant,3113,agriculture/bachelor,Crop Science|Farm Management
+22004,23,Charles Sturt University,BA-NUR,Bachelor of Nursing,Undergraduate,3,30000,ATAR 48+/IB,5.5,N/A,Science+English,72,54000,Nurse|Health Manager,2512,nursing/bachelor,General Nursing|Mental Health
+22005,23,Charles Sturt University,BA-ED,Bachelor of Education,Undergraduate,4,29000,ATAR 48+/IB,5.5,N/A,English+relevant,65,52000,Teacher|Educator,2412,education/bachelor,Primary|Secondary|Special Ed
+
+23001,24,Federation University,BA-ENG,Bachelor of Engineering,Undergraduate,4,38000,ATAR 55+/IB,5.5,N/A,Math+Physics,78,58000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+23002,24,Federation University,BA-BUS,Bachelor of Business,Undergraduate,3,35000,ATAR 52+/IB,5.5,N/A,English+Math,70,46000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+23003,24,Federation University,BA-HLT,Bachelor of Health,Undergraduate,3,34000,ATAR 50+/IB,5.5,N/A,Science+English,72,50000,Health Professional,2512,health/bachelor,Nursing|Allied Health
+23004,24,Federation University,BA-IT,Bachelor of IT,Undergraduate,3,36000,ATAR 50+/IB,5.5,N/A,Math+English,75,55000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+23005,24,Federation University,BA-SC,Bachelor of Science,Undergraduate,3,35000,ATAR 50+/IB,5.5,N/A,Science subjects,70,48000,Scientist|Analyst,2311,science/bachelor,Chemistry|Physics|Environmental
+
+24001,25,University of Southern Queensland,BA-ENG,Bachelor of Engineering,Undergraduate,4,39000,ATAR 58+/IB,6.0,N/A,Math+Physics,80,62000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+24002,25,University of Southern Queensland,BA-AGR,Bachelor of Agriculture,Undergraduate,4,37000,ATAR 55+/IB,6.0,N/A,Science+Math,74,50000,Farmer|Agronomist,3113,agriculture/bachelor,Crop Science|Farm Management
+24003,25,University of Southern Queensland,BA-BUS,Bachelor of Business,Undergraduate,3,36000,ATAR 55+/IB,6.0,N/A,English+Math,73,49000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+24004,25,University of Southern Queensland,BA-IT,Bachelor of IT,Undergraduate,3,38000,ATAR 55+/IB,6.0,N/A,Math+English,78,58000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+24005,25,University of Southern Queensland,BA-NUR,Bachelor of Nursing,Undergraduate,3,35000,ATAR 52+/IB,6.0,N/A,Science+English,75,56000,Nurse|Health Manager,2512,nursing/bachelor,General Nursing|Community Health
+
+25001,26,Victoria University,BA-BUS,Bachelor of Business,Undergraduate,3,33000,VCE 55+/IB,6.0,N/A,English+Math,72,50000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+25002,26,Victoria University,BA-IT,Bachelor of IT,Undergraduate,3,32000,VCE 55+/IB,6.0,N/A,Math+English,76,57000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+25003,26,Victoria University,BA-ENG,Bachelor of Engineering,Undergraduate,4,38000,VCE 60+/IB,6.0,N/A,Math+Physics,80,61000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+25004,26,Victoria University,BA-HLT,Bachelor of Health,Undergraduate,3,31000,VCE 50+/IB,6.0,N/A,Science+English,74,51000,Health Professional,2512,health/bachelor,Nursing|Allied Health|Public Health
+25005,26,Victoria University,MS-BUS,Master of Business,Postgraduate,1.5,35000,Bachelor+1yr exp,6.5,N/A,Work experience,78,69000,Manager|Consultant,1200,business/masters,Management|Finance
+
+26001,27,Swinburne University,BA-ENG,Bachelor of Engineering,Undergraduate,4,44000,VCE 65+/IB,6.5,N/A,Math+Physics,84,67000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+26002,27,Swinburne University,BA-IT,Bachelor of IT,Undergraduate,3,42000,VCE 60+/IB,6.5,N/A,Math+English,82,64000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+26003,27,Swinburne University,BA-BUS,Bachelor of Business,Undergraduate,3,40000,VCE 60+/IB,6.5,N/A,English+Math,78,58000,Analyst|Manager,1200,business/bachelor,Accounting|Management|Marketing
+26004,27,Swinburne University,MS-IT,Master of IT,Postgraduate,2,45000,Bachelor/relevant,6.5,N/A,Tech skills,87,82000,Senior Developer|Tech Lead,2611,it/masters,Cybersecurity|Cloud
+26005,27,Swinburne University,BA-SC,Bachelor of Science,Undergraduate,3,43000,VCE 60+/IB,6.5,N/A,Science subjects,80,61000,Scientist|Analyst,2311,science/bachelor,Physics|Chemistry|Mathematics
+
+27001,28,Western Sydney University,BA-BUS,Bachelor of Business,Undergraduate,3,34000,HSC 50+/IB,6.0,N/A,English+Math,70,47000,Analyst|Manager,1200,business/bachelor,Accounting|Management
+27002,28,Western Sydney University,BA-IT,Bachelor of IT,Undergraduate,3,33000,HSC 50+/IB,6.0,N/A,Math+English,74,55000,Developer|Systems Admin,2611,it/bachelor,Web|Mobile|Cloud
+27003,28,Western Sydney University,BA-ENG,Bachelor of Engineering,Undergraduate,4,39000,HSC 55+/IB,6.0,N/A,Math+Physics,79,60000,Engineer|Designer,2631,engineering/bachelor,Software|Civil|Electrical
+27004,28,Western Sydney University,BA-HLT,Bachelor of Health,Undergraduate,3,32000,HSC 48+/IB,6.0,N/A,Science+English,72,50000,Health Professional,2512,health/bachelor,Nursing|Public Health|Allied
+27005,28,Western Sydney University,MS-BUS,Master of Business,Postgraduate,1.5,36000,Bachelor+1yr exp,6.0,N/A,Work experience,75,68000,Manager|Consultant,1200,business/masters,Management|Finance|Operations
+
+28001,29,University of Divinity,BA-THL,Bachelor of Theology,Undergraduate,3,20000,ATAR 40+/Mature age,6.0,N/A,English+Philosophy,58,36000,Clergy|Theologian|Educator,4212,theology/bachelor,Christian Studies|Biblical Studies|Ministry
+28002,29,University of Divinity,BA-PHI,Bachelor of Philosophy,Undergraduate,3,22000,ATAR 45+/Mature age,6.0,N/A,English+reasoning,60,38000,Philosopher|Educator|Analyst,4212,philosophy/bachelor,Ethics|Logic|Metaphysics|Social Philosophy
+28003,29,University of Divinity,MA-THL,Master of Theology,Postgraduate,2,24000,Bachelor+relevant,6.5,N/A,Theological knowledge,65,42000,Scholar|Religious leader,4212,theology/masters,Pastoral Studies|Academic Research
+28004,29,University of Divinity,BA-MIN,Bachelor of Ministry,Undergraduate,3,19000,ATAR 40+/Mature age,5.5,N/A,Leadership interest,55,32000,Minister|Community Leader,4212,ministry/bachelor,Pastoral Ministry|Youth Work
+28005,29,University of Divinity,DIP-REL,Diploma in Religion,Undergraduate,2,16000,ATAR 35+/Mature age,5.5,N/A,None required,50,28000,Religious Educator|Community Worker,4212,religion/diploma,General Religious Studies|Comparative Religion
+
+29001,30,Bond University,BA-BUS,Bachelor of Business,Undergraduate,3,48000,QLD OP10-15/IB,7.0,N/A,English+Math,86,76000,Manager|Analyst|Consultant,1200,business/bachelor,International Business|Finance|Marketing
+29002,30,Bond University,BA-LAW,Bachelor of Laws,Undergraduate,4,52000,QLD OP8-12/IB,7.0,N/A,English focus,87,85000,Lawyer|Barrister,2711,law/bachelor,Corporate Law|Commercial|Criminal
+29003,30,Bond University,BA-HLT,Bachelor of Health,Undergraduate,3,45000,QLD OP10-15/IB,7.0,N/A,Science+English,83,68000,Health Professional,2512,health/bachelor,Allied Health|Public Health|Nursing
+29004,30,Bond University,BA-ENG,Bachelor of Engineering,Undergraduate,4,50000,QLD OP10-15/IB,7.0,N/A,Math+Physics,85,72000,Engineer|Consultant,2631,engineering/bachelor,Software|Civil|Electrical
+29005,30,Bond University,MS-BUS,Master of Business,Postgraduate,1,46000,Bachelor+3yrs exp,7.0,N/A,Leadership experience,84,88000,Executive|Director,1200,business/masters,Strategic Management|Finance
