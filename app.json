@@ -1,65 +1,23 @@
 {
   "expo": {
-    "name": "AustraliaPath",
-    "slug": "australia-path",
+    "name": "PathwaytoAustralia",
+    "slug": "pathwaytoaustralia",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "australiapath",
-    "userInterfaceStyle": "automatic",
-    "splash": {
-      "resizeMode": "contain",
-      "backgroundColor": "#00843D"
-    },
+    "userInterfaceStyle": "light",
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": false,
-      "bundleIdentifier": "com.australiapath.app",
-      "buildNumber": "1",
-      "infoPlist": {
-        "NSCameraUsageDescription": "Used for profile photo",
-        "NSPhotoLibraryUsageDescription": "Used to select profile photo"
-      }
+      "bundleIdentifier": "com.australiapath.app"
     },
     "android": {
       "package": "com.australiapath.app",
-      "versionCode": 1,
-      "permissions": [
-        "INTERNET",
-        "ACCESS_NETWORK_STATE"
-      ]
+      "versionCode": 3
     },
-    "web": {
-      "bundler": "metro",
-      "output": "static"
-    },
-    "plugins": [
-      "expo-router",
-      "expo-font",
-      [
-        "expo-splash-screen",
-        {
-          "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#00843D"
-        }
-      ],
-      [
-        "expo-secure-store",
-        {
-          "faceIDPermission": "Allow AustraliaPath to access your Face ID biometric data."
-        }
-      ]
-    ],
-    "experiments": {
-      "typedRoutes": true
-    },
+    "owner": "mustansir.yaqub",
     "extra": {
-      "router": {
-          "origin": false
-  }
-},
-"owner": "mustansir.yaqub"
+      "eas": {}
+    }
   }
 }
