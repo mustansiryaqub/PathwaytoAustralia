@@ -57,12 +57,9 @@
     },
     "extra": {
       "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "YOUR_EAS_PROJECT_ID"
-      }
-    },
-    "owner": "YOUR_EXPO_USERNAME"
+          "origin": false
+  }
+},
+"owner": "mustansir.yaqub"
   }
 }
